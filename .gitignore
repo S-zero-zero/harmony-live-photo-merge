@@ -1,0 +1,18 @@
+# Python 运行产物
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 本项目的大文件产物不纳入版本管理（按需取消注释）
+# input/*.jpg
+# input/*.mp4
+# out/*.jpg
+# ref/*.jpeg
+# ref/*.mp4
